@@ -55,7 +55,7 @@ Esto te da acceso al contenedor principal de Hadoop, como si entraras a una mini
 * Para confirmar que se creó correctamente, puedes verificarlo con:
 `hdfs dfs -ls /user/`
 
-# Ejemplo que puedes realizar
+# *Ejemplo que puedes realizar*
 
 ## Resolver un Sudoku con Hadoop y MapReduce  
 
@@ -131,4 +131,4 @@ Entrar al contenedor namenode: `bash`
 
 * Supimos cómo prender, entrar y apagar estos contenedores donde corre Hadoop.
 
-# ¡FELICIDADES! ¡Somos los mejores aprendiendo!
+# *¡FELICIDADES! ¡Somos los mejores aprendiendo!*
